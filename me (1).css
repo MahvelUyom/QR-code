@@ -1,0 +1,27 @@
+*{
+  font-family: sans-serif
+}
+body{
+  background-color: lightblue;
+}
+.outter{
+  border-radius: 15px;
+  background-color: whitesmoke;
+  padding:15px;
+  width:230px;
+  padding-top: 15px
+}
+img{
+  width:230px;
+  height:230px;
+  border-radius: 7px
+}
+p{
+  color: gray;
+  font-family: sans-serif;
+  font-weight: 400;
+}
+h3{
+  color:#33363D;
+  font-weight: 800;
+}
